@@ -2,26 +2,14 @@
   (:require [accountant.core :as accountant]
             [bidi.bidi :as bidi]
             [om.core :as om]
-            [om.dom :as dom :include-macros true]))
+            [om.dom :as dom :include-macros true]
+            [cljs-modules.inner :as inner]
+            [cljs-modules.outer :as outer]))
 
 (defonce app-state (atom {:text "Hello world!"}))
 
-(defn outer-component [app owner opts]
-  (reify om/IRender
-    (render [_]
-      (dom/div #js {} nil
-               (dom/h1 #js {} "Hello from Outer!")
-               (dom/a #js {:href "/app"} "inner")))))
-
-(defn inner-component [app owner opts]
-  (reify om/IRender
-    (render [_]
-      (dom/div #js {} nil
-               (dom/h1 #js {} "Hello from Inner!")
-               (dom/a #js {:href "/"} "outer")))))
-
-(def routes ["/" {"" outer-component
-                  "app" inner-component}])
+(def routes ["/" {"" outer/outer-component
+                  "app" inner/inner-component}])
 
 (defn nav-handler [cursor path]
   (om/update! cursor [:active-component] (:handler (bidi/match-route routes path))))
