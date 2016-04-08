@@ -38,9 +38,13 @@
                ;; lein cljsbuild once min
                {:id "min"
                 :source-paths ["src"]
-                :compiler {:output-to "resources/public/js/compiled/cljs_modules.js"
+                :compiler {:output-dir "resources/public/js/compiled"
                            :main cljs-modules.core
                            :optimizations :advanced
+                           :modules {:outer {:output-to "resources/public/js/compiled/outer.js"
+                                             :entries #{"cljs-modules.outer"}}
+                                     :inner {:output-to "resources/public/js/compiled/inner.js"
+                                             :entries #{"cljs-modules.inner"}}}
                            :pretty-print false}}]}
 
   :figwheel {;; :http-server-root "public" ;; default and assumes "resources"

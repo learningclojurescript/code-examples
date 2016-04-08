@@ -3,9 +3,12 @@
             [bidi.bidi :as bidi]
             [om.core :as om]
             [om.dom :as dom :include-macros true]
+            [cljs-modules.modules :as modules]
             [cljs-modules.render :as render]))
 
-(defonce app-state (atom {}))
+(enable-console-print!)
+
+(defonce app-state (atom {:active-component :outer/outer}))
 
 (defn nav-handler [cursor path]
   (om/update! cursor [:active-component] (:handler (bidi/match-route render/routes path))))
