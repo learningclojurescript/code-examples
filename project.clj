@@ -12,6 +12,8 @@
                  [org.clojure/core.async "0.2.374"
                   :exclusions [org.clojure/tools.reader]]
                  [org.omcljs/om "0.9.0"]
+                 [ring "1.4.0"]
+                 [ring/ring-jetty-adapter "1.4.0"]
                  [venantius/accountant "0.1.7"]]
 
   :plugins [[lein-figwheel "0.5.2"]
@@ -30,7 +32,7 @@
 
                 :compiler {:main cljs-modules.core
                            :asset-path "js/compiled/out"
-                           :output-to "resources/public/js/compiled/cljs_modules.js"
+                           :output-to "resources/public/js/compiled/cljs_base.js"
                            :output-dir "resources/public/js/compiled/out"
                            :source-map-timestamp true}}
                ;; This next build is an compressed minified build for
