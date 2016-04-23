@@ -1,4 +1,4 @@
-# Learning ClojureScript [code modules]
+# Learning ClojureScript [code examples]
 
 This repository contains various projects and code snippets from [_Learning ClojureScript_](http://www.amazon.com/Learning-ClojureScript-Rafik-Naccache/dp/1785887637/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1455930533&sr=8-1) (Packt Publishing, 2016).
 
