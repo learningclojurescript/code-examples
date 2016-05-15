@@ -4,4 +4,6 @@ This repository contains various projects and code snippets from [_Learning Cloj
 
 The code found in this repository is broken down by the chapters you can expect to find it in. In some cases, code will be re-used or expanded upon in consecutive chapters - in such cases, the code will be found in the earlier of the two chapters in this repository.
 
-All content here has been distributed under the Eclipse License 1.0. It is Copyright © 2016 W. David Jarvis, Rafik Naccache, and Allen Rohner.
+All content here has been distributed under the Eclipse License 1.0.
+
+It is Copyright © 2016 W. David Jarvis, Rafik Naccache, and Allen Rohner.
