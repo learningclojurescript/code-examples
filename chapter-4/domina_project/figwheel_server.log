@@ -1,0 +1,55 @@
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.227 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.114 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.342 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 1.303 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.164 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.275 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.146 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.158 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.141 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.137 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.206 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.127 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.16 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.375 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/domina_project/core.js
+[32mSuccessfully compiled "main.js" in 0.301 seconds.[0m

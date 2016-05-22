@@ -1,0 +1,163 @@
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.227 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.114 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.342 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.222 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.157 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.127 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.131 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.174 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.141 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mERROR: EOF while reading string on file /home/rafik/Dropbox/Learning ClojureScript Book/The Chapters/Chapter 4/enfocus_project/src/enfocus_project/core.cljs, line 18, column 1
+[32mSuccessfully compiled "main.js" in 0.096 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mERROR: EOF while reading, starting at line 10 and column 1 on file /home/rafik/Dropbox/Learning ClojureScript Book/The Chapters/Chapter 4/enfocus_project/src/enfocus_project/core.cljs, line 18, column 1
+[32mSuccessfully compiled "main.js" in 0.07 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mERROR: EOF while reading, starting at line 10 and column 1 on file /home/rafik/Dropbox/Learning ClojureScript Book/The Chapters/Chapter 4/enfocus_project/src/enfocus_project/core.cljs, line 18, column 1
+[32mSuccessfully compiled "main.js" in 0.074 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (2) passed to: core/let at line 13 src/enfocus_project/core.cljs on file src/enfocus_project/core.cljs, line 13, column 3
+[32mSuccessfully compiled "main.js" in 0.072 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.176 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Use of undeclared Var enfocus_project.core/deftemcreate-btn at line 7 /home/rafik/Dropbox/Learning ClojureScript Book/The Chapters/Chapter 4/enfocus_project/src/enfocus_project/core.cljs
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.391 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.239 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.185 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.308 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "ef/html" should be a vector at line 7 src/enfocus_project/core.cljs on file src/enfocus_project/core.cljs, line 7, column 1
+[32mSuccessfully compiled "main.js" in 0.122 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.4 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.212 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (3) passed to: macros/defaction at line 16 src/enfocus_project/core.cljs on file src/enfocus_project/core.cljs, line 16, column 3
+[32mSuccessfully compiled "main.js" in 0.096 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (3) passed to: macros/defaction at line 16 src/enfocus_project/core.cljs on file src/enfocus_project/core.cljs, line 16, column 3
+[32mSuccessfully compiled "main.js" in 0.1 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.252 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.247 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.233 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.232 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (0) passed to enfocus-project.core/gen-button at line 15 src/enfocus_project/core.cljs
+WARNING: Wrong number of args (1) passed to enfocus.events/listen at line 26 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.294 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to enfocus-project.core/gen-button at line 15 src/enfocus_project/core.cljs
+WARNING: Wrong number of args (1) passed to enfocus.events/listen at line 26 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.243 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to enfocus-project.core/gen-button at line 15 src/enfocus_project/core.cljs
+WARNING: Wrong number of args (1) passed to enfocus.events/listen at line 26 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.161 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to enfocus-project.core/gen-button at line 15 src/enfocus_project/core.cljs
+WARNING: Wrong number of args (1) passed to enfocus-project.core/gen-button at line 16 src/enfocus_project/core.cljs
+WARNING: Wrong number of args (1) passed to enfocus.events/listen at line 27 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.204 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to enfocus.events/listen at line 27 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.16 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to enfocus.events/listen at line 27 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.201 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to enfocus.events/listen at line 27 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.301 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to enfocus.events/listen at line 27 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.179 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.151 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.189 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Use of undeclared Var enfocus-project.core/width at line 23 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.282 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.155 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.141 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: cljs.core/+, all arguments must be numbers, got [cljs.core/Keyword nil] instead. at line 24 src/enfocus_project/core.cljs
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.156 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/enfocus_project/core.js
+[32mSuccessfully compiled "main.js" in 0.147 seconds.[0m

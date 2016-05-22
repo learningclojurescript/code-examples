@@ -1,0 +1,15 @@
+*~
+/.DS_Store
+.DS_Store
+/classes
+/target
+/out
+*out
+.lein*
+.log*
+.repl*
+.cljs*
+.lein-repl-history
+.nrepl-port
+.nrepl-repl-history
+node_modules

@@ -1,0 +1,81 @@
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.227 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.114 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.342 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.496 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.275 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.229 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.182 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.225 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.27 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.195 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.195 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (2) passed to: core/sel1 at line 20 src/dommy_project/core.cljs on file src/dommy_project/core.cljs, line 20, column 17
+[32mSuccessfully compiled "main.js" in 0.087 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[31mCompiling "main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (2) passed to: core/sel1 at line 20 src/dommy_project/core.cljs on file src/dommy_project/core.cljs, line 20, column 17
+[32mSuccessfully compiled "main.js" in 0.074 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.317 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.184 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.183 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.121 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.144 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.129 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.297 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to dommy.core/set-text! at line 18 src/dommy_project/core.cljs
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.17 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.127 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.128 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/dommy_project/core.js
+[32mSuccessfully compiled "main.js" in 0.136 seconds.[0m

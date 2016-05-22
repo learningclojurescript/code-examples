@@ -1,0 +1,42 @@
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.227 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.114 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.342 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/garden_project/core.js
+[32mSuccessfully compiled "main.js" in 0.485 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Use of undeclared Var garden-project.core/div at line 9 src/garden_project/core.cljs
+WARNING: Use of undeclared Var garden-project.core/p at line 11 src/garden_project/core.cljs
+notifying browser that file changed:  out/garden_project/core.js
+[32mSuccessfully compiled "main.js" in 0.269 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Use of undeclared Var garden-project.core/div at line 9 src/garden_project/core.cljs
+WARNING: Use of undeclared Var garden-project.core/p at line 11 src/garden_project/core.cljs
+notifying browser that file changed:  out/garden_project/core.js
+[32mSuccessfully compiled "main.js" in 0.232 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/garden_project/core.js
+[32mSuccessfully compiled "main.js" in 0.237 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/garden_project/core.js
+[32mSuccessfully compiled "main.js" in 0.223 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/garden_project/core.js
+[32mSuccessfully compiled "main.js" in 0.245 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+[32mSuccessfully compiled "main.js" in 0.132 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/garden_project/core.js
+[32mSuccessfully compiled "main.js" in 0.208 seconds.[0m

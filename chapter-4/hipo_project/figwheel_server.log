@@ -1,0 +1,47 @@
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.227 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.114 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/raw_dom/core.js
+[32mSuccessfully compiled "main.js" in 0.342 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Use of undeclared Var hipo-project.core/add-first-menu at line 10 src/hipo_project/core.cljs
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.452 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Use of undeclared Var hipo-project.core/add-first-menu! at line 10 src/hipo_project/core.cljs
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.25 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.262 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.237 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to hipo.core/reconciliate! at line 14 src/hipo_project/core.cljs
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.274 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to hipo.core/reconciliate! at line 14 src/hipo_project/core.cljs
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.257 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to hipo.core/reconciliate! at line 16 src/hipo_project/core.cljs
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.248 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.236 seconds.[0m
+[0mCompiling "main.js" from ["src"]...
+notifying browser that file changed:  out/hipo_project/core.js
+[32mSuccessfully compiled "main.js" in 0.179 seconds.[0m
